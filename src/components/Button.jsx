@@ -5,7 +5,7 @@ const Button = ({ styles }) => {
   return (
     <div>
       <button
-        className={`${styles} bg-blue-gradient rounded-xl font-poppins font-medium text-lg text-primary px-8 py-3`}
+        className={`${styles} bg-blue-gradient rounded-xl font-poppins font-medium text-lg text-primary px-8 py-4 hover:scale-105 duration-300`}
       >
         Get Started
       </button>
