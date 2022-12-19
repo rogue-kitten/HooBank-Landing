@@ -6,7 +6,7 @@ const CardDeal = () => {
   return (
     <section
       id="card"
-      className="flex flex-col md:flex-row py:6 sm:py-16 space-y-0 md:space-y-10 space-x-0 md:space-x-12"
+      className="flex flex-col md:flex-row py:6 sm:py-16 space-y-10 md:space-y-0 space-x-0 md:space-x-12"
     >
       <div className="flex flex-1 flex-col justify-center items-start">
         <h2 className="font-poppins font-semibold xs:text-[48px] text-[40px] leading-[66.8px] xs:leading=[76.8px] w-full text-white ">

@@ -4,10 +4,10 @@ import GetStarted from "./GetStarted";
 
 const Hero = () => (
   <section id="home" className="flex flex-col md:flex-row py-6 sm:py-16">
-    <div className="flex justify-center items-start flex-col px-6 sm:px-16 xl:px-0">
-      <div className="flex flex-row items-center py-[6px] px-4 bg-discount-graident rounded-10px md-2">
+    <div className="flex justify-center items-start flex-col xl:px-0">
+      <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient-2 rounded-xl md-2">
         <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
-        <p className=" uppercase font-normal text-dimWhite text-[18px] leading-[30.8px] ml-2">
+        <p className=" uppercase font-normal text-dimWhite text-[13px] xs:text-[14px] sm:text-[18px] leading-[30.8px] ml-2">
           <span className="text-white">20% </span>
           discount for <span className="text-white">1 month </span>
           account

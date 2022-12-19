@@ -23,7 +23,7 @@ const App = () => {
         </div>
       </div>
       {/*Hero Section*/}
-      <div className="bg-primary flex justify-center items-start">
+      <div className="px-6 sm:px-16 bg-primary flex justify-center items-start">
         <div className="w-full max-w-[1280px] ">
           <Hero />
         </div>

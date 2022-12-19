@@ -5,7 +5,7 @@ const Clients = () => {
   return (
     <section
       id="client"
-      className="flex justify-between items-center mb-10  -mt-3 md:-mt-6"
+      className="flex justify-between items-center mb-10 md:mb-16 -mt-3 md:-mt-6"
     >
       <div className="flex justify-center items-center flex-wrap w-full">
         {clients.map((client) => (

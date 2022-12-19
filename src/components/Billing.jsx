@@ -4,9 +4,9 @@ import { apple, bill, google } from "../assets";
 const Billing = () => (
   <section
     id="product"
-    className="flex flex-col-reverse md:flex-row py-6 sm:py-16 space-y-10 md:space-y-0"
+    className="flex flex-col-reverse md:flex-row py-6 sm:py-16"
   >
-    <div className="flex flex-1 justify-center items-center mr-0 md:mr-10 relative">
+    <div className="flex flex-1 justify-center items-center mr-0 mt-6 md:mt-0 md:mr-10 relative">
       <img src={bill} alt="billing" className="object-contain" />
     </div>
     <div className="flex flex-1 flex-col justify-center items-start">
