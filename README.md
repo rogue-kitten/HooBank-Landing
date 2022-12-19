@@ -1,6 +1,6 @@
 <h1 align='center'> HooBank Landing Page | <a href='https://hoobank-landing-page-six.vercel.app/'>Visit here!</a></h1>
 
-![Banner](./assets/Banner.png)
+![Banner](./src/assets/Banner.png)
 
 ## Project Context
 
