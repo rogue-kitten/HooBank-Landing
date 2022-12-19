@@ -15,7 +15,7 @@ const NavBar = () => {
               "font-poppins font-normal cursor-pointer text-base text-white"
             }
           >
-            <a href="#${navlink.id}">{navlink.title}</a>
+            <a href={`#${navlink.id}`}>{navlink.title}</a>
           </li>
         ))}
       </ul>

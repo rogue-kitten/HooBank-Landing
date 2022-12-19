@@ -5,7 +5,7 @@ import FeedbackCard from "./FeedbackCard";
 const Testimonials = () => {
   return (
     <section
-      id="#testimonials"
+      id="clients"
       className="flex flex-col justify-center items-start py-6 sm:py-16"
     >
       <div className="flex flex-col justify-center items-start w-full">
